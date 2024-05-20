@@ -1,3 +1,31 @@
 body {
+<style>
+h1 {
+  background-color: grey;
+  color:#CDE6F5;
+  font-size:80px;
+  text-align: center;
+  text-decoration-line:overline;
+  
+}
+h1:hover{
+  color:red;
+}
+}
+  h1 {
+  text-shadow: 3px 4px 5px #8DA7BE;
+}
+img {
+  border:dashed;
+}
 
+body {
+  background-color: #8DA7BE;
+}
+
+
+
+
+</style>
+</html>
 }
